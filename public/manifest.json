@@ -1,0 +1,7 @@
+{
+  "name": "EOM",
+  "short_name": "EOM",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone"
+}
