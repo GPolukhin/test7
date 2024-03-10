@@ -1,4 +1,41 @@
-baseURL: https://example.org/
+baseURL: https://github.com/GPolukhin/test7/
 languageCode: en-us
 title: EOM
 theme: Eclectic
+author:
+  facebook: "https://www.facebook.com/ffeks.dnu"
+  twitter: "https://t.me/DNU_EOM_123"
+  email: "ffeks@ffeks.dnu.edu.ua"
+  name: "EOM"
+  location: Dnipro
+  phone: +38 (056) 776-58-45
+  hours: "Mon-Fri: 9:00AM - 6:00PM, ET"
+menu:
+  main:
+    - identifier: about
+      name: Про нас
+      url: /about
+      weight: 100    
+    - identifier: contact
+      name: Контакти
+      url: /contact
+      weight: 200
+params:
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2024 EOM"
+  footer:
+    - title: Створюй майбутнє з кафедрою EOM
+      content: >
+        Вітаємо на кафедрі електронних обчислювальних машин, 
+        де об'єднані найкращі мізки для розвитку обчислювальних 
+        технологій та науки  комп'ютерних систем. Наш викладацький 
+        колектив складається з досвідчених фахівців, які мають 
+        багаторічний практичний досвід у галузі електронних 
+        обчислювальних технологій. Наша місія: дослідження, навчання, 
+        інновації.
+
+    - title: Останні новини
+      recents: blog
+      recentCount: 7
+    - title: Зв'яжіться з нами
+      contact: true
