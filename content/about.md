@@ -1,39 +1,23 @@
-Acme Corporation TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+![Department photo](/static/image/department_photo.svg "вул. Наукова 9, кор. 12")
 
-We shape the world. You live in it.
+# Еволюція та досягнення кафедри ЕОМ #
+## Заснування та початки ##
 
-We provide smiles to hundreds of happy customers.
+Кафедра ЕОМ була заснована на базі кафедри біоніки фізичного факультету Дніпропетровського державного університету в 1976 році на початку широкого впровадження обчислювальної техніки в виробничу діяльність підприємств Придніпровського регіону. Вона є однією з перших кафедр цього напрямку в Україні.
 
-Manufacturing
+З 1977 року кафедра ЕОМ входить до складу радіофізичного факультету, а з 2007 року – до складу факультету фізики, електроніки та комп'ютерних систем Дніпровського національного університету імені Олеся Гончара. За час свого існування кафедра ЕОМ підготувала понад 3000 висококваліфікованих фахівців в області комп'ютерних систем і мереж.
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
+Засновником кафедри був доцент Олександр Костянтинович Флоров, який доклав багато зусиль для формування і розвитку цього напрямку в Дніпропетровському університеті. За час існування кафедри її керівниками були: к.б.н., доцент О.К. Флоров (1976-1984, 1989-1998), к. ф-м. н., доцент А.А Андрєєв (1984-1989), д.т.н., професор В.С. Хандецький (з 1998 і по сьогодні).
 
+## Ключові події та досягнення ##
+## 2009 ##
+### Високий рівень публікацій ###
+Постійна участь в міжнародних конференціях та виданнях, що свідчить про високий науковий потенціал кафедри.
 
-1) Drawing - Our shapes are drawn with precision to 1/100 of a millimeter.
-   * We use advanced vector drawing tools to create our catalog.
-   * Quality checking happens hundreds of times for each shape we create.
-     * We have high-quality bots that inspect our output.
-     * There is also a manual team inspecting each product.
-     * All our bugs are turned into automated checks that bots perform in every future shape.
-   * We round all corners and clean up properly.
-2) Rasterizing - Our raster engine is world-class and keeps the vector right until it gets to our high-quality laser printers.
-3) Delivery - Our output is hosted on the fastest of CDN with a 99.99% uptime and the bandwidth that can take care of all your load.
+## 2010 ##
+### Початок партнерства з індустрією ###
+Успішна співпраця з провідними компаніями галузі, що призвела до стажування та подальшого працевлаштування випускників кафедри.
 
-Products
-
-We make over 200 shapes. The most popular of these include:
-
-Shape,  Design, Description, Links
-Line , --,  Two pointy ends and a straight stretch of ink, Line on Wikipedia - https://en.wikipedia.org/wiki/Line_(geometry)
-Circle,  -- , A full round with no corners, Circle on Wikipedia - https://en.wikipedia.org/wiki/Circle
-Triangle,  -- , Three lines with three corners,  Triangle on Wikipedia - https://en.wikipedia.org/wiki/Triangle
-
-Team
-
-
-Alex - Hippy Web Developer - Technophile
-
-Bob - Classic SysAdmin - Conservative
-
-Gabby - Cool Content Master - Cautious
-
+## 2019 ##
+### Активна участь у наукових проектах ###
+Участь в міждисциплінарних наукових дослідженнях та проектах, що вносять вагому вклад у розвиток сучасних технологій.

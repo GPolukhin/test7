@@ -1,59 +1,59 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EOM</title>
-    <link>http://localhost:1313/GPolukhin/test7/</link>
-    <description>Recent content on EOM</description>
+    <title>Кафедра електронних обчислювальних машин</title>
+    <link>https://github.com/GPolukhin/test7/</link>
+    <description>Recent content on Кафедра електронних обчислювальних машин</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ffeks@ffeks.dnu.edu.ua (EOM)</managingEditor>
     <webMaster>ffeks@ffeks.dnu.edu.ua (EOM)</webMaster>
     
-        <atom:link href="http://localhost:1313/GPolukhin/test7/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://github.com/GPolukhin/test7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title></title>
-<link>http://localhost:1313/GPolukhin/test7/about/</link>
+<link>https://github.com/GPolukhin/test7/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ffeks@ffeks.dnu.edu.ua (EOM)</author>
-      <guid>http://localhost:1313/GPolukhin/test7/about/</guid>
+      <guid>https://github.com/GPolukhin/test7/about/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://localhost:1313/GPolukhin/test7/contact/</link>
+<link>https://github.com/GPolukhin/test7/contact/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ffeks@ffeks.dnu.edu.ua (EOM)</author>
-      <guid>http://localhost:1313/GPolukhin/test7/contact/</guid>
+      <guid>https://github.com/GPolukhin/test7/contact/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://localhost:1313/GPolukhin/test7/credits/</link>
+<link>https://github.com/GPolukhin/test7/credits/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ffeks@ffeks.dnu.edu.ua (EOM)</author>
-      <guid>http://localhost:1313/GPolukhin/test7/credits/</guid>
+      <guid>https://github.com/GPolukhin/test7/credits/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://localhost:1313/GPolukhin/test7/privacy/</link>
+<link>https://github.com/GPolukhin/test7/privacy/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ffeks@ffeks.dnu.edu.ua (EOM)</author>
-      <guid>http://localhost:1313/GPolukhin/test7/privacy/</guid>
+      <guid>https://github.com/GPolukhin/test7/privacy/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://localhost:1313/GPolukhin/test7/terms/</link>
+<link>https://github.com/GPolukhin/test7/terms/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ffeks@ffeks.dnu.edu.ua (EOM)</author>
-      <guid>http://localhost:1313/GPolukhin/test7/terms/</guid>
+      <guid>https://github.com/GPolukhin/test7/terms/</guid>
 <description></description>
 <category></category></item>
     
