@@ -1,5 +1,3 @@
-![Department photo](/static/image/department_photo.svg "вул. Наукова 9, кор. 12")
-
 # Еволюція та досягнення кафедри ЕОМ #
 ## Заснування та початки ##
 
