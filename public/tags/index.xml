@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Кафедра електронних обчислювальних машин</title>
-    <link>http://localhost:1313/GPolukhin/test7/tags/</link>
+    <link>https://github.com/GPolukhin/test7/tags/</link>
     <description>Recent content in Tags on Кафедра електронних обчислювальних машин</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ffeks@ffeks.dnu.edu.ua (EOM)</managingEditor>
     <webMaster>ffeks@ffeks.dnu.edu.ua (EOM)</webMaster>
-    <atom:link href="http://localhost:1313/GPolukhin/test7/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/GPolukhin/test7/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
