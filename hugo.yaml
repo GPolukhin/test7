@@ -16,10 +16,14 @@ menu:
       name: Про нас
       url: /about
       weight: 100    
+    - identifier: history
+      name: Історія
+      url: /history
+      weight: 200
     - identifier: contact
       name: Контакти
       url: /contact
-      weight: 200
+      weight: 300
 params:
   color: "#4f46e5"
   copyright: "Copyright &copy; 2024 EOM"
