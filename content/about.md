@@ -1,7 +1,7 @@
 #
 {{< divider >}}
 #
-{{< image >}}
+{{< department_photo >}}
 #
 {{< divider >}}
 #
